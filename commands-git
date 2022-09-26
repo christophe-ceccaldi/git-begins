@@ -1,5 +1,5 @@
 git clone https://github.com/christophe-ceccaldi/git-begins.git
 
-git add
+git add "nom du fichier"
 git commit -m "nom du fichier"
 git push origin main
