@@ -1,0 +1,13 @@
+git clone https://github.com/christophe-ceccaldi/git-begins.git
+
+git add "nom du fichier"
+git commit -m "commentaire de la version"
+git push origin main
+
+git pull 
+
+git branch "nom de la branche"
+git checkout "nom de la branche"
+
+git merge add-create-branch-command
+
