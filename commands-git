@@ -3,3 +3,5 @@ git clone https://github.com/christophe-ceccaldi/git-begins.git
 git add "nom du fichier"
 git commit -m "commentaire de la version"
 git push origin main
+
+git pull 
