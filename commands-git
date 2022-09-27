@@ -5,3 +5,6 @@ git commit -m "commentaire de la version"
 git push origin main
 
 git pull 
+
+git branch add-create-branch-command
+git checkout add-create-branch-command
